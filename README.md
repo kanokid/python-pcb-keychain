@@ -1,4 +1,4 @@
-#Python keychain
+# Python keychain
 
 My project is a multi color PCB keychain that has the python logo I drew by myself (with not a lot of drawing experience).
 
